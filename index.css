@@ -1,0 +1,11 @@
+body{
+    background-color: antiquewhite;
+    align-items: center;
+    justify-content : center;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    height: 1200px;
+    width: 800px;
+}
